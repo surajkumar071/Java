@@ -3,8 +3,7 @@
 
 
 
-effect of temperature
-
+effect of tempe
 
 
 
