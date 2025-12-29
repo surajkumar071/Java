@@ -3,8 +3,7 @@
 
 
 
-effect of temperature of the 
-
+effect of temperature
 
 
 
