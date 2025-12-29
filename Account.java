@@ -3,7 +3,7 @@
 
 
 
-effect of temperature of the day of the day of the day of 
+effect of temperature of the day of the day of t
 
 
 
