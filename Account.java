@@ -3,8 +3,7 @@
 
 
 
-effect of temperature of the day of th
-
+effect of temperature of the 
 
 
 
