@@ -1,3 +1,15 @@
+
+
+
+
+adds to the same person who is the best for your exams and all the 
+
+
+
+
+
+
+
 import java.util.*;
 class Accounts{
         double balance;
