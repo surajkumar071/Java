@@ -2,7 +2,7 @@
 
 
 
-adds to the same person who is the best for your exams and 
+adds to the same person who is the best for your 
 
 
 
