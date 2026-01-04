@@ -1,11 +1,4 @@
 
-
-
-
-dfgdss t
-
-
-
 // class Account deposit and withraw.
 import java.util.Scanner;
 public class Account {
