@@ -4,7 +4,7 @@
 
 
 
-Portronics 65W Halley 20K 20000mAh Fast Charging Powerbank for Android Smartphones, iPhones, ipads, Tablets & Macbooks, Dual Type C PD Por
+Portronics 65W Halley 20K 20000mAh Fast Charging Powerbank for Android Smartphones, iPhones, ipads, Tablets & Macbooks, Du
 
 
 
