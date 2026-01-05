@@ -1,11 +1,4 @@
 
-
-
-
-
-
-Portronics 65W Halley 
-
 import java.util.*;
 class Accounts{
         double balance;
