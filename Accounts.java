@@ -4,8 +4,7 @@
 
 
 
-Portronics 65W Halley 20K 20000mAh Fast
-
+Portronics 65W Halley 
 
 import java.util.*;
 class Accounts{
