@@ -4,7 +4,7 @@
 
 
 
-Portronics 65W Halley 20K 20000mAh Fast Charging Powerbank for Android Smartphone
+Portronics 65W Halley 20K 20000mAh Fast Charging Powerbank 
 
 
 
