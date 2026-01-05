@@ -4,8 +4,7 @@
 
 
 
-Portronics 65W Halley 20K 20000mAh Fast Charging Powerbank 
-
+Portronics 65W Halley 20K 20000mAh Fast
 
 
 import java.util.*;
