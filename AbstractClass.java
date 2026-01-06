@@ -2,9 +2,7 @@
 
 
 
-afsar bitiya ka da
-
-
+afsar bi
 
 
 public abstract class AbstractClass{
