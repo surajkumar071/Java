@@ -2,7 +2,7 @@
 
 
 
-afsar bitiya ka dard thik h
+afsar bitiya ka da
 
 
 
