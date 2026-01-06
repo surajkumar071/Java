@@ -2,8 +2,7 @@
 
 
 
-afsar bitiya ka dard thik ho jata hai
-
+afsar bitiya ka dard thik h
 
 
 
