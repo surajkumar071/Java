@@ -1,10 +1,4 @@
 
-
-
-
-afsar bi
-
-
 public abstract class AbstractClass{
 
     @SuppressWarnings("unused")
