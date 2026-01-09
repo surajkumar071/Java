@@ -2,9 +2,6 @@
 
 
 
-dhee
-
-
 
 
 public abstract class AbstractClass{
