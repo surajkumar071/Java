@@ -1,9 +1,4 @@
 
-
-
-
-
-
 public abstract class AbstractClass{
 
     @SuppressWarnings("unused")
