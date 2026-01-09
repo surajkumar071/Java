@@ -2,8 +2,7 @@
 
 
 
-dheeth ho gaya hai ki vah apane aap ko bhi n
-
+dheeth ho gaya hai ki vah apane aap k
 
 
 
