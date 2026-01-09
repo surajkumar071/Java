@@ -2,7 +2,7 @@
 
 
 
-dheeth ho gaya ha
+dheeth ho 
 
 
 
