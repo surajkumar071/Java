@@ -1,7 +1,7 @@
 
 
 
-HDD capacity of
+HDD capac
 
 
 import java.util.*;
