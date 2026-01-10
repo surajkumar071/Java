@@ -1,11 +1,7 @@
 
 
 
-HDD capacity of the day of th
-
-
-
-
+HDD capacity of the d
 
 
 
