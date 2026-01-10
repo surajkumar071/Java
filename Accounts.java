@@ -1,4 +1,16 @@
 
+
+
+HDD capacity of the day of the day of the day of the day of 
+
+
+
+
+
+
+
+
+
 import java.util.*;
 class Accounts{
         double balance;
