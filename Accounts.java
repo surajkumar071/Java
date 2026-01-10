@@ -1,10 +1,7 @@
 
 
 
-HDD capacity of the d
-
-
-
+HDD capacity of
 
 
 import java.util.*;
