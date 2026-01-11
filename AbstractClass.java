@@ -1,7 +1,7 @@
 
 
 
-arts and craft
+arts and 
 
 
 
