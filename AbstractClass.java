@@ -1,8 +1,7 @@
 
 
 
-arts and 
-
+arts 
 
 
 public abstract class AbstractClass{
