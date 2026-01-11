@@ -1,7 +1,7 @@
 
 
 
-arts and crafts and activities 
+arts and crafts and activ
 
 
 
