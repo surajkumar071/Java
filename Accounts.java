@@ -2,8 +2,6 @@
 
 
 
-
-
 import java.util.*;
 class Accounts{
         double balance;
